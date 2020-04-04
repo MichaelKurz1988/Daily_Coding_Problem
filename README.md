@@ -1,2 +1,2 @@
 # Daily_Coding_Problem
-My take on the Daily Coding Problem
+My, not necessarily daily, take on the Daily Coding Problem... 
